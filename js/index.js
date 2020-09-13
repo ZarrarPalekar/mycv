@@ -92,7 +92,7 @@ var options = {
   typeSpeed: 80,
   backDelay: 700,
   backSpeed: 100,
-  showCursor: false,
+  showCursor: true,
   autoInsertCss: true,
   loop: true,
   loopCount: Infinity,
